@@ -15,8 +15,10 @@ New X→Predicted y
 1. Regression: Predicts continuous values
 
 📌 Example: Predicting temperature, price, or salary
+
 🔧 Algorithms: LinearRegression, SVR, SGDRegressor
 2. Classification: Predicts categories or labels
 
 📌 Example: Email is spam or not
+
 🔧 Algorithms: LogisticRegression, RandomForestClassifier, SGDClassifier, SVM, KNN
