@@ -12,11 +12,13 @@ You train the model using this data so it can later predict:
 New X→Predicted y
 
 🔁 Types of Supervised Learning
+
 1. Regression: Predicts continuous values
 
 📌 Example: Predicting temperature, price, or salary
 
 🔧 Algorithms: LinearRegression, SVR, SGDRegressor
+
 2. Classification: Predicts categories or labels
 
 📌 Example: Email is spam or not
