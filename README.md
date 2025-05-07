@@ -17,10 +17,10 @@ New X→Predicted y
 
 📌 Example: Predicting temperature, price, or salary
 
-🔧 Algorithms: LinearRegression, SVR, SGDRegressor
+🔧 Algorithms: LinearRegression, SVR, SGDRegressor, etc
 
 2. Classification: Predicts categories or labels
 
 📌 Example: Email is spam or not
 
-🔧 Algorithms: LogisticRegression, RandomForestClassifier, SGDClassifier, SVM, KNN
+🔧 Algorithms: LogisticRegression, RandomForestClassifier, SGDClassifier, SVM, KNN, etc
